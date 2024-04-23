@@ -1,0 +1,38 @@
+#profile {
+  border-radius: 50%;
+}
+
+#intro {
+  background-color: #a79277;
+}
+
+#skills {
+  background-color: #d1bb9e;
+}
+
+#skills .feature {
+  margin: 30px 0;
+}
+
+#skills p {
+  max-width: 350px;
+}
+
+#project1 {
+  background-color: #ead8c0;
+}
+
+#project2 {
+  background-color: #fff2e1;
+}
+
+#footer-section {
+  background-color: #a79277;
+  padding: 1px 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
